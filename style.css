@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+}
+body{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+button{
+    padding: 10px;
+    font-size: 1.2rem;
+    font-weight: bold;
+    border: 2px solid #000;
+    border-radius: 10px;
+    background-color: lightblue;
+    cursor: pointer;
+}
